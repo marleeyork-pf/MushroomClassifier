@@ -1,6 +1,6 @@
 <!-- MushroomCNN README (HTML) -->
 
-<h1>MushroomCNN</h1>
+<h1> MushroomCNN <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f344.png" width="22" alt="Mushroom icon" style="vertical-align: middle; margin-left: 6px;"> </h1>
 <p><strong>Classifying mushroom images by genus with CNN</strong></p>
 
 <hr>
